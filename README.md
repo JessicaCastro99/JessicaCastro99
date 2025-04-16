@@ -45,6 +45,11 @@ Desenvolvi integrações, fluxos inteligentes e dashboards para acompanhamento d
 ### 📊 GitHub Stats
 
 ![Jéssica GitHub stats](https://github-readme-stats.vercel.app/api?username=JessicaCastro99&show_icons=true&theme=radical)
+### 📅 Minhas contribuições recentes
+
+![GitHub Contribution Snake](https://github.com/JessicaCastro99/JessicaCastro99/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ---
 
