@@ -9,9 +9,11 @@
 
 ### 💼 Sobre mim
 
-Sou apaixonada por transformar dados em soluções inteligentes. Tenho experiência sólida com engenharia de dados, automações low code, APIs e inteligência artificial aplicada ao atendimento.
+Sou apaixonada por transformar dados em soluções inteligentes. 
+Tenho experiência sólida com engenharia de dados, automações low e now code, APIs e inteligência artificial aplicada ao atendimento.
 
-Atuei fortemente com **Serviceaide ISM**, uma poderosa plataforma low-code utilizada para **automatização do ciclo de vida de chamados** e **otimização de fluxos de atendimento**. Desenvolvi integrações, fluxos inteligentes e dashboards para acompanhamento de SLAs e KPIs.
+Atuei fortemente com **Serviceaide ISM**, uma poderosa plataforma now-code utilizada para **automatização do ciclo de vida de chamados** e **otimização de fluxos de atendimento**. 
+Desenvolvi integrações, fluxos inteligentes e dashboards para acompanhamento de SLAs e KPIs.
 
 > **Atualmente, meu foco está 100% voltado à área de Engenharia de Dados**, buscando entregar pipelines escaláveis, dados limpos e confiáveis e insights que impactam o negócio.
 
@@ -24,7 +26,7 @@ Atuei fortemente com **Serviceaide ISM**, uma poderosa plataforma low-code utili
 - `Power BI`, `Grafana`
 - `PostgreSQL`, `Redshift`
 - `Azure DevOps`, `Jenkins`, `Git`
-- `Serviceaide ISM`, `ServiceNow` (Low Code)
+- `Serviceaide ISM`, `ServiceNow` 
 - `APIs REST`, `JSON`, `Postman`
 - `Scrum`, `Kanban`
 
